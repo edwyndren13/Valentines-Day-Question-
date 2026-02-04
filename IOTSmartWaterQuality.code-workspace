@@ -1,16 +1,1 @@
-{
-	"folders": [
-		{
-			"path": "../Documents/IOTSmartWaterQuality"
-		},
-		{
-			"name": "waterquality",
-			"path": "../Documents/PlatformIO/Projects/waterquality"
-		},
-		{
-			"name": "IotWaterQuality",
-			"path": "../Documents/PlatformIO/Projects/IotWaterQuality"
-		}
-	],
-	"settings": {}
-}
+
